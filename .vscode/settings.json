@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.html": "django-html",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "random": "cpp",
+        "ostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
